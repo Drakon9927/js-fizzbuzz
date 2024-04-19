@@ -18,3 +18,5 @@ for (i = 1; i <= 10000; i++) {
     }
 }
 
+// Bonus 1 Sabato
+// Bonus 2 Domenica 
